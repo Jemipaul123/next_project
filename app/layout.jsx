@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
           <a href="http://localhost:3000/about">About</a>
           </li>
           <li>
-          <a href="#">Sign up</a>
+          <a href="#">Sign in</a>
           </li>
           </ul>
 
