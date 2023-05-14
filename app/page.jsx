@@ -13,7 +13,7 @@ export default async function Home() {
   console.log(res)
   return (
     <main>
-      <h1>Hello next 13</h1>
+      <h1>Trending Movies</h1>
       {res.results.map((movie) => (
         <div>
         <h2>{movie.title}</h2></div>
